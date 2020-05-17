@@ -1,5 +1,5 @@
 def add(x,y):
-    pass
+    x+y
 
 def subtract(x,y):
     return x-y
@@ -10,5 +10,5 @@ def multiply(x,y):
 def divide(x,y):
     return x/y
 
-def square(x,y):
-    pass
+def square(x):
+    x*2
